@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Datatypes {
     public static void main(String[] args) {
+        // for user input
         Scanner sc=new Scanner(System.in);
         // data types
         //Integer types
