@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Second_Program {
+public class Datatypes {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         // data types
