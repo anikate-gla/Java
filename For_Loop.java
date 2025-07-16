@@ -6,7 +6,7 @@ public class For_Loop {
         // print number upto n
         int n=sc.nextInt();
         for (int i=0;i<n;i++){
-            System.out.println(i);
+            System.out.print(i+" ");
         }
     }
 }
