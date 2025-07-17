@@ -5,6 +5,7 @@ public class while_loop {
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
         int i=1;
+        System.out.println("Table of "+ num);
         while (i<11){
             System.out.println(num+"*"+i+" = "+(num*i));
             i++;
