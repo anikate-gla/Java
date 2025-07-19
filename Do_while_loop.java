@@ -5,7 +5,6 @@ public class Do_while_loop {
         Scanner sc = new Scanner(System.in);
         int choice;
         double a, b, result;
-
         do {
             System.out.println("\n===== Arithmetic Menu =====");
             System.out.println("1. Addition");
