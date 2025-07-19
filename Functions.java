@@ -5,6 +5,7 @@ public class Functions {
         Scanner sc=new Scanner(System.in);
         int num = sc.nextInt();
         System.out.println("Inside main");
+        
         //call by value
         fun(num);
     }
